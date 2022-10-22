@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    border: 3px dotted crimson;
+    font: italic 50px;
+    color: crimson;
+    background-color: chartreuse;
+}
+
+ol{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+li{
+    width: 75px;
+    height: 75px;
+    font-size: 50px;
+    font-family: cursive;
+    text-transform: uppercase;
+    list-style: none;
+    background-color: chartreuse;
+    color: crimson;
+    margin: 5px;
+    text-align: center;
+}
